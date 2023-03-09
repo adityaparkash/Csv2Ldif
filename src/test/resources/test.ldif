@@ -1,0 +1,15 @@
+dn: cn=lyagami,ou=Identity,dc=versent,dc=com
+changetype: add
+cn: lyagami
+sn: Yagami
+givenName: Light
+mail: light.yagami@versent.com
+mail: lyagami@versent.com
+
+dn: cn=ktakada,ou=Identity,dc=versent,dc=com
+changetype: add
+cn: ktakada
+sn: Takada
+givenName: kiyomi
+mail: ktakada@versent.com
+
